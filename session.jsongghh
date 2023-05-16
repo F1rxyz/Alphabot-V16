@@ -12,15 +12,7 @@
     },
     "signedIdentityKey": {
       "private": {
-        "type": "Buffer",
-        "data": "mIeHdoGmqA3ZVUq1VAzkoEFUfH/ZHJTNfOkk5JeMPUk="
-      },
-      "public": {
-        "type": "Buffer",
-        "data": "PDCZZ9GUDoS0ZF2VBFoTUL0VXUcPbmDNzwlqxP8qxhA="
-      }
-    },
-    "signedPreKey": {
+        "type": 
       "keyPair": {
         "private": {
           "type": "Buffer",
@@ -86,21 +78,7 @@
     ],
     "platform": "android",
     "lastAccountSyncTimestamp": 1669159236,
-    "myAppStateKeyId": "AAAAACoU"
-  },
-  "keys": {
-    "preKeys": {
-      "1": {
-        "private": {
-          "type": "Buffer",
-          "data": "QE+yw4R6dhhFfGszpQLZmoJYs9IVTZDd5ro3fkJS5Vo="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "MLyrHt5CRhWyvmIcbDFFVIv+mVT3o/+T5v7ODLEdXlI="
-        }
-      },
-      "2": {
+    "myAppStateKeyId"
         "private": {
           "type": "Buffer",
           "data": "GAmTAYB3NR7Hzu1oitQ64tYQ3kyRYMDs9qPX4Ev7DVs="
